@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:DDA0DD,100:9370DB&height=180&section=header&text=Hi,%20I'm%20Asna&fontSize=35&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:CDB4DB,100:FFC8DD&height=180&section=header&text=Hi,%20I'm%20Asna&fontSize=35&fontColor=ffffff"/>
+
 
 # Hi, I'm Asna
 
@@ -29,6 +30,8 @@ Building projects and learning how applications are deployed, managed and scaled
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
 ### Cloud & Infrastructure
 
@@ -41,6 +44,7 @@ Building projects and learning how applications are deployed, managed and scaled
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ## Projects
 
